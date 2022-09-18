@@ -1,0 +1,9 @@
+{
+    "name": "momo/mpay",
+    "description": "Wordpress plugin to support momo bulk transactions",
+    "type": "wordpress-plugin",
+    "require": {
+        "eftec/bladeone": "^3.30",
+        "phpoffice/phpspreadsheet": "^1.10"
+    }
+}
